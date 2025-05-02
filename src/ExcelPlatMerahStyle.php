@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Services;
+namespace App\ExcelPlatMerah;
 
 use PhpOffice\PhpSpreadsheet\Style\Alignment as StyleAlignment;
 use PhpOffice\PhpSpreadsheet\Style\Border;
