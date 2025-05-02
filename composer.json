@@ -1,0 +1,21 @@
+{
+    "name": "ferdyhape/excel-plat-merah",
+    "description": "Package for styling Excel sheets with “plat merah” style using maatwebsite/excel.",
+    "type": "library",
+    "require": {
+        "maatwebsite/excel": "^3.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ferdyhape\\ExcelPlatMerah\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferdy Hahan Pradana",
+            "email": "ferdyhahan5@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
